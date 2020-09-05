@@ -24,7 +24,7 @@ INGInious can be used as an external grader for EDX. The course `Paradigms of Co
 Documentation
 -------------
 
-The documentation is available on Read the Docs:
+The documentation is available on Read the Docs :
 
 - For the stable branch : http://inginious.readthedocs.org/
 - For the master (dev) branch (not always up to date) : http://inginious.readthedocs.org/en/latest/index.html
